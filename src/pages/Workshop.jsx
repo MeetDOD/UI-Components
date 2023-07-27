@@ -1,14 +1,15 @@
 import React from 'react'
+import './workshop.css'
 
 const Workshop = () => {
   return (
     <div>
       <div class="page-section banner-info">
-    <div class="wrap bg-image">
+    <div class="wrap ib">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 py-3 pr-lg-5 wow fadeInUp">
-            <h2 class="title-section">SEO to Improve Brand <br/> Visibility</h2>
+            <h2 class="title-section">WorkShop</h2>
             <div class="divider"></div>
             <p>We're an experienced and talented team of passionate consultants who breathe with search engine marketing.</p>
             

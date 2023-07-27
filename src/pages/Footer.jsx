@@ -7,7 +7,7 @@ const Footer = () => {
     <div class="container">
       <div class="row mb-5">
         <div class="col-lg-3 py-3">
-          <h3>SEOGram</h3>
+          <h3>Meet Sports</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero amet, repellendus eius blanditiis in iusto eligendi iure.</p>
 
           <div class="social-media-button">

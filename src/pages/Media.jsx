@@ -6,9 +6,10 @@ const Media = () => {
       <div class="page-section">
     <div class="container">
       <div class="text-center wow fadeInUp">
-        <div class="subhead">Our Blog</div>
-        <h2 class="title-section">Read Latest News</h2>
-        <div class="divider mx-auto"></div>
+        <div class="subhead text-white">Media</div>
+        <h2 class="title-section text-danger">MEDIA COVERAGE
+</h2>
+        <div class="divider mx-auto ree"></div>
       </div>
 
       <div class="row mt-5">
@@ -20,8 +21,8 @@ const Media = () => {
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="#">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
+              <h5 class="post-title"><a className='text-danger'>Source of Content Inspiration</a></h5>
+              <div class="post-date">Posted on <a className='text-white'>27 Jan 2020</a></div>
             </div>
           </div>
         </div>
@@ -34,8 +35,8 @@ const Media = () => {
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="#">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
+            <h5 class="post-title"><a className='text-danger'>Source of Content Inspiration</a></h5>
+            <div class="post-date">Posted on <a className='text-white'>27 Jan 2020</a></div>
             </div>
           </div>
         </div>
@@ -48,14 +49,14 @@ const Media = () => {
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="#">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
+            <h5 class="post-title"><a className='text-danger'>Source of Content Inspiration</a></h5>
+            <div class="post-date">Posted on <a className='text-white'>27 Jan 2020</a></div>
             </div>
           </div>
         </div>
 
         <div class="col-12 mt-4 text-center wow fadeInUp">
-          <a href="blog.html" class="btn btn-primary">View More</a>
+          <a href="blog.html" class="btn btn-danger">View More</a>
         </div>
       </div>
     </div>
